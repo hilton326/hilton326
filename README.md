@@ -1,10 +1,13 @@
 ## Hi, I'm Hilton Del Valle!
 
-I am a computer science student at the University of Georgia (graduating fall 2026). 
+I am a computer science student at the University of Georgia (graduating fall 2026).
+Always open to collaborating on new projects and tackling new challenges.
+My mission is to build software that directly benefits people.
 
-I am focused on finding new ways to benefit the community through software design and development.
-I am always open to collaborating on new projects, learning new skills, and tackling new challenges.
+
+I'm currently working on recreating a chat site I used years ago from scratch: 
+Also the President of CodeHub @ UGA: 
 
 **Skills:**
-- **Languages:** Python, Java, JavaScript/TypeScript, HTML/CSS, SQL (currently learning)
-- **Frameworks:** Spring, React, Next.js, Tailwind
+- **Languages:** JavaScript/TypeScript, HTML/CSS, SQL, Python, Java
+- **Frameworks:** Spring, Express, React, Next.js, Vite, Tailwind
