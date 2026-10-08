@@ -7,7 +7,7 @@ I'm always open to collaborating on new projects and tackling new challenges.
 
 I'm currently working on recreating a chat site I used years ago from scratch: https://github.com/hilton326/ESBRehydrated 
 
-Also I'm the President of CodeHub @ UGA: https://codehub-uga.com/
+Also I'm the President of CodeHub @ UGA!
 
 **Skills:**
 - **Languages:** JavaScript/TypeScript/React, HTML/CSS, PostgreSQL, Python, Java
